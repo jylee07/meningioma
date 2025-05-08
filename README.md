@@ -26,4 +26,4 @@ Single-cell analysis reveals a longitudinal trajectory of meningioma evolution a
 
 
 ## For questions or support, contact:
-ghsl0102@korea.ac.kr
+Jiyoon Lee (ghsl0102@korea.ac.kr)
