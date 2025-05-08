@@ -1,4 +1,4 @@
-# fig4_cellchat_primary_vs_recurrent.R
+# fig4_cellchat_analysis.R
 
 # Load required libraries
 suppressPackageStartupMessages({
