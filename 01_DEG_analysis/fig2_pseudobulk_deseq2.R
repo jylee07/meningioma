@@ -1,4 +1,4 @@
-# FIG 2: Pseudo-bulk DEG and pathway enrichment analysis
+# Fig 2: Pseudo-bulk DEG and pathway enrichment analysis
 
 # Load libraries
 library(Seurat)
