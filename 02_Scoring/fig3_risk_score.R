@@ -1,4 +1,4 @@
-## FIG 3: Risk Score Estimation using ssGSEA
+## Fig 3: Risk Score Estimation using ssGSEA
 
 # Load libraries
 suppressPackageStartupMessages({
