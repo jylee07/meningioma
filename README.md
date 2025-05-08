@@ -1,6 +1,6 @@
  # Meningioma snRNA-seq Analysis Code
 \
-This repository contains code used for the analysis in the study:  \
+This repository contains code used for the analysis in the study:
 
 Single-cell analysis reveals a longitudinal trajectory of meningioma evolution and heterogeneity
 
@@ -9,7 +9,7 @@ Single-cell analysis reveals a longitudinal trajectory of meningioma evolution a
 01_DEG_analysis/fig2_pseudobulk_deseq2.R\
 - Performs DESeq2-based DEG analysis and pathway enrichment.\
 \
-## 2. MG4 and Risk Score (Fig 2\'963)\
+## 2. MG4 and Risk Score (Fig 2)\
 \
 02_Scoring/fig2_mg4_score.R \'97 ssGSEA for MG4 meta-modules.\
 02_Scoring/fig3_risk_score.R \'97 Risk score from gene sets.\
