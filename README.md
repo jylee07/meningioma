@@ -1,4 +1,4 @@
- # Meningioma snRNA-seq Analysis Code\
+ # Meningioma snRNA-seq Analysis Code
 \
 This repository contains code used for the analysis in the study:  \
 
@@ -22,5 +22,6 @@ Single-cell analysis reveals a longitudinal trajectory of meningioma evolution a
 04_miloR/fig5_milor_analysis.R\
 - Tests local differential abundance using `miloR`.\
 \
- For questions or support, contact:\
-[ghsl0102@korea.ac.kr](\outl0\strokewidth0 ghsl0102@korea.ac.kr\outl0\strokewidth0 \strokec2 )
+
+## For questions or support, contact:\
+ghsl0102@korea.ac.kr
