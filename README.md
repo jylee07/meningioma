@@ -18,7 +18,7 @@ Single-cell analysis reveals a longitudinal trajectory of meningioma evolution a
 - Risk score from gene sets.
 
 ## 3. CellChat Signaling (Fig 4)
-03_CellChat/fig4_cellchat_primary_vs_recurrent.R
+03_CellChat/fig4_cellchat_analysis.R
 - Infers intercellular communication & compares across samples.
 
 ## 4. Differential Abundance with miloR (Fig 5)
