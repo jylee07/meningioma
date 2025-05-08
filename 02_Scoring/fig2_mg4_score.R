@@ -1,4 +1,4 @@
-# fig2_mg4_score.R: MG4 Meta-Module Score Calculation using ssGSEA
+# Fig2_mg4_score.R: MG4 Meta-Module Score Calculation using ssGSEA
 
 # Load libraries
 suppressPackageStartupMessages({
