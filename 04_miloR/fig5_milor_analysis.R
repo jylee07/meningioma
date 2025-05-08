@@ -1,5 +1,3 @@
-# code/04_miloR_analysis/fig5_milor_analysis.R
-
 # FIG 5: MiloR Differential Abundance and Marker Analysis
 
 suppressPackageStartupMessages({
