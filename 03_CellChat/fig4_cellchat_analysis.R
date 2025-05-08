@@ -1,4 +1,4 @@
-# fig4_cellchat_analysis.R
+# Fig4_cellchat_analysis.R
 
 # Load required libraries
 suppressPackageStartupMessages({
